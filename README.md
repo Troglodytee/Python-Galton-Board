@@ -13,7 +13,7 @@ This is a simulation of the Galton board.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
-- Python math library
-- Python scipy library
+- Python `tkinter` library
+- Python `random` library
+- Python `math` library
+- Python `scipy` library
